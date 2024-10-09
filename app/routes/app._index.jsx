@@ -110,7 +110,7 @@ export default function Index() {
 
   return (
     <Page 
-      title="Auto Search Settings"
+      title="SearchAuto Dashboard"
       secondaryActions={[
         {
           content: 'Sync Google Sheet',
